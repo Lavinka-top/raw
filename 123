@@ -4,7 +4,9 @@ try {
   console.error(error);
 }
 
-const dict = {'Datym': 'Матвеев Иван 9Е', 
+const dict = {
+'korobeynikov.p.i': 'Коробейников Павел 9Е',
+'Datym': 'Матвеев Иван 9Е', 
 'Sr_lucky_MaN':'Дунин Дмитрий 10В',
 'Ivanov_Slava':'Иванов Вячеслав 10В',
 'MillerEA':'Миллер Евгений 10В',
